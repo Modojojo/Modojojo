@@ -3,8 +3,8 @@
 #### I have experience and interest in -
 * Python
 * Computer Vision
-* Deep Learning
 * Machine Learning
+* Deep Learning
 
 #### Languages and Tools - 
 <p>
